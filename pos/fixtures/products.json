@@ -1,0 +1,7 @@
+[
+    { "model": "pos.product", "pk": 1, "fields": { "upc": "012345678905", "name": "Milk 2L",          "price": "4.49" } },
+    { "model": "pos.product", "pk": 2, "fields": { "upc": "123456789012", "name": "Whole Wheat Bread", "price": "2.99" } },
+    { "model": "pos.product", "pk": 3, "fields": { "upc": "036000291452", "name": "Paper Towels 6pk",  "price": "9.99" } },
+    { "model": "pos.product", "pk": 4, "fields": { "upc": "049000036756", "name": "Eggs Large 12",     "price": "3.79" } }
+  ]
+  
