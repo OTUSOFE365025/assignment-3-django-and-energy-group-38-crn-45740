@@ -79,3 +79,5 @@ Enter UPC: 012345678905
 Product Found:
 Name: Milk
 Price: $3.99
+<img width="1440" height="900" alt="Screenshot 2025-11-09 at 4 49 38 PM" src="https://github.com/user-attachments/assets/04c7d92a-d2e5-46b8-b13e-79796c501819" />
+
